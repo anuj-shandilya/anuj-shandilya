@@ -1,4 +1,4 @@
-# Hi! 👋 I'm [Your Name]
+# Hi! 👋 I'm [ANUJ SHANDILYA]
 
 ## 🎓 About Me
 Final year **Information Science** student at **CMRIT** | Aspiring **Full-Stack Developer**
