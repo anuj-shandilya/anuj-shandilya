@@ -37,7 +37,7 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/anuj-shandilya" target="_blank">
+  <a href="[https://www.linkedin.com/in/anuj-shandilya](https://www.linkedin.com/in/anuj-shandilya-290b4025a/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/anuj.shandilya_" target="_blank">
